@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\MCD-Downloader\obj\Debug\DynoLTSLauncher.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MCD-Downloader\obj\Debug\DynoLTSLauncher.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MCD-Downloader\obj\Debug\DynoLTSLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MCD-Downloader\obj\Debug\dynolts.Form1.resources
+C:\Users\Admin\source\repos\MCD-Downloader\obj\Debug\dynolts.Properties.Resources.resources
+C:\Users\Admin\source\repos\MCD-Downloader\bin\Debug\dynolts.exe.config
+C:\Users\Admin\source\repos\MCD-Downloader\bin\Debug\dynolts.exe
+C:\Users\Admin\source\repos\MCD-Downloader\bin\Debug\dynolts.pdb
+C:\Users\Admin\source\repos\MCD-Downloader\bin\Debug\System.Management.Automation.dll
+C:\Users\Admin\source\repos\MCD-Downloader\obj\Debug\DynoLTSLauncher.csproj.CopyComplete
+C:\Users\Admin\source\repos\MCD-Downloader\obj\Debug\dynolts.exe
+C:\Users\Admin\source\repos\MCD-Downloader\obj\Debug\dynolts.pdb
+C:\Users\Admin\source\repos\MCD-Downloader\bin\Debug\system32\Windows.ApplicationModel.Store.dll
+C:\Users\Admin\source\repos\MCD-Downloader\bin\Debug\syswow64\Windows.ApplicationModel.Store.dll
+C:\Users\Admin\source\repos\MCD-Downloader\bin\Debug\revert\system32\Windows.ApplicationModel.Store.dll
+C:\Users\Admin\source\repos\MCD-Downloader\bin\Debug\revert\syswow64\Windows.ApplicationModel.Store.dll
